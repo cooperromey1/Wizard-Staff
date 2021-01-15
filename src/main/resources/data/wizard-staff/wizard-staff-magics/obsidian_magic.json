@@ -3,6 +3,6 @@
   "duration": 60,
   "magic": "obsidian_magic",
   "ingredient": {
-    "item": "minecraft:obsidian"
+    "item": "minecraft:end_stone_brick_stairs"
   }
 }
