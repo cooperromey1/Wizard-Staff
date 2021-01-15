@@ -1,8 +1,8 @@
 {
-  "cost": 20,
-  "duration": 15,
+  "cost": 50,
+  "duration": 5,
   "magic": "wither_skull_magic",
   "ingredient": {
-    "item": "minecraft:wither_skeleton_skull"
+    "item": "minecraft:end_portal_frame"
   }
 }
