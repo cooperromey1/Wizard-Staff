@@ -4,7 +4,7 @@
   "magic": "grappling_hook_magic",
   "ingredient": [
     {
-      "item": "minecraft:fishing_rod"
+      "item": "minecraft:purpur_slab"
     }
   ]
 }
