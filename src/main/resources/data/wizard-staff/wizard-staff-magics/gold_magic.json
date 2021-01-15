@@ -3,6 +3,6 @@
   "duration": 25,
   "magic": "gold_magic",
   "ingredient": {
-    "tag": "forge:ingots/gold"
+    "tag": "minecraft:purpur_block"
   }
 }
