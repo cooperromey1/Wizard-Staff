@@ -4,7 +4,7 @@
   "magic": "blaze_powder_magic",
   "ingredient": [
     {
-      "item": "minecraft:endstone_brick"
+      "item": "minecraft:end_stone_brick"
     }
   ]
 }
