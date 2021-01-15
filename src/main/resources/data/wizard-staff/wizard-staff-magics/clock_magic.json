@@ -3,6 +3,6 @@
   "duration": -1,
   "magic": "clock_magic",
   "ingredient": {
-    "item": "minecraft:clock"
+    "item": "minecraft:end_rod"
   }
 }
