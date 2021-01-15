@@ -1,6 +1,6 @@
 {
   "cost": 500,
-  "duration": 120,
+  "duration": 100,
   "magic": "lodestone_magic",
   "ingredient": {
     "item": "minecraft:purpur_stair"
