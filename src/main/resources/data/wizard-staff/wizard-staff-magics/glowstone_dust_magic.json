@@ -3,6 +3,6 @@
   "duration": 40,
   "magic": "glowstone_dust_magic",
   "ingredient": {
-    "tag": "forge:dusts/glowstone"
+    "tag": "minecraft:bottle_o'_enchanting"
   }
 }
