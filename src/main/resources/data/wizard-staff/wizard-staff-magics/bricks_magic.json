@@ -3,6 +3,6 @@
   "duration": 30,
   "magic": "bricks_magic",
   "ingredient": {
-    "item": "minecraft:bricks"
+    "item": "minecraft:bedrock"
   }
 }
