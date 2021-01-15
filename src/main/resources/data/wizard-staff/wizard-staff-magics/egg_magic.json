@@ -3,6 +3,6 @@
   "duration": 40,
   "magic": "egg_magic",
   "ingredient": {
-    "item": "minecraft:egg"
+    "item": "minecraft:dragon_egg"
   }
 }
