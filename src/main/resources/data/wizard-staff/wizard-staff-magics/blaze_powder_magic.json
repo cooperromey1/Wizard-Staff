@@ -4,7 +4,7 @@
   "magic": "blaze_powder_magic",
   "ingredient": [
     {
-      "item": "minecraft:dragon_egg"
+      "item": "minecraft:endstone_brick"
     }
   ]
 }
