@@ -3,6 +3,6 @@
   "duration": 50,
   "magic": "blue_dye_magic",
   "ingredient": {
-    "tag": "forge:dyes/blue"
+    "tag": "minecraft:shulker_shell"
   }
 }
